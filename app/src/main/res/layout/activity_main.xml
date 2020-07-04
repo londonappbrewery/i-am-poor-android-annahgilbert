@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text=" I Am Poor "
+        android:text="@string/title"
         android:textSize="36sp"
         android:textStyle="bold" />
 
